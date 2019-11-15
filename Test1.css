@@ -1,0 +1,158 @@
+.fixed-top{
+    background: #DDDDDD;
+    padding-top: 2rem;
+    padding-bottom: -2rem;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    float: left;
+    width: 80px;
+    height: 40px;
+    border-bottom: 1px solid #401E1E;
+}
+ul li .nav-item{
+   text-decoration: none;
+   margin-left: 12px;
+   color: #401E1E;
+}
+ul li:hover {
+    border-bottom: 3px solid #401E1E;
+}
+.menu-1 .text-warning{
+    text-decoration: none;
+}
+.h5 .click{
+    text-decoration: none;
+    color: #401E1E;
+}
+.h5 .click:hover{
+    text-decoration: none;
+    color: orange;
+}
+.banner{
+    width: 100%;
+    height: 150px;
+    background-image: url(hinhanh/cafe5.jpg);
+}
+.container h3{
+    color: #401E1E;
+    font-family: Florence, cursive;
+    text-align: center;
+}
+.container p{
+    color: #401E1E;
+    font-family: Florence, cursive;
+    text-align: center;
+}
+.banner-2{
+    width: 100%;
+    height: 400px;
+    background-image: url(hinhanh/cafe3.jpg);
+    background-position: center;
+    background-size: contain; 
+    background-repeat: repeat;
+}
+.box h4{
+    color: white;
+    font-size: 30px;
+   font-family: Florence, cursive;
+}
+.box h1{
+    color: white;
+    font-family: Florence, cursive;
+}
+.menu-1{
+    width: 90%;
+    height: 130px;
+    border:2px white solid;
+    float: left;
+    margin: 0.5% 5%;
+}
+.title{
+    font-family: 'Sacramento', cursive;
+    font-size:4rem;
+}
+.img{
+    height: 100%;
+    width: 20%;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    
+}
+.content{
+    width: 70%;
+
+}
+.line{
+    width: 2px;
+    height: 100%;
+    background: black;
+    float: left;
+}
+.do{
+    margin-top: 2rem;
+    float: left;
+    font-size: 150%;
+}
+.box{
+    float: left;
+    width: 90%;
+    height: 90%;
+    border: white 2px solid;
+    margin: 1% 5%;
+}
+.box-1{
+   margin-left: 7px;
+    height: 100px;
+    border: solid rgb(156, 35, 35) 2px;
+}
+button{
+    
+}
+.row-1{
+    /* background:firebrick; */
+    width: 60%;
+position: relative;
+top: 20%;
+left: 20%;
+}
+.title-2{
+    font-family: 'Poiret One', cursive;
+  font-size: 2rem;
+}
+.logo{
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+   
+}
+.container-fluid-1{
+    background: #6F6B6B;
+    border-top: 10px solid #35191B;
+}
+.img-group{
+    width: 60px;
+    height: 60px;
+}
+.bg{
+    padding-left: 38rem;
+    padding-top: 2rem;
+    list-style: none;
+}
+.bg li{
+    float: left;
+    width: 100px;
+    height: 40px;
+    border-right: 1px solid white;
+    border-bottom: none;
+}
+.bg li .nav-item{
+   text-decoration: none;
+   color: white;
+}
+.bg li:hover {
+    border-bottom: 3px solid white;
+}
